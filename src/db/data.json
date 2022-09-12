@@ -66,6 +66,13 @@
       "kor": "컴퓨터",
       "isDone": false,
       "id": 8
+    },
+    {
+      "day": "1",
+      "eng": "ada",
+      "kor": "ad",
+      "isDone": false,
+      "id": 9
     }
   ]
 }
